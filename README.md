@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Iuri
 - 👀 I’m interested in games, music and technology
-- 🌱 I’m currently learning web development
-- 📫 How to reach me: iurirseifriz@gmail.com
+- 🌱 I’m currently studying Software Analysis and Development - Federal Institute of Rio Grande do Sul
+- 📫 How to reach me: iurirseifriz@gmail.com or linkedin.com/in/iuri-seifriz-152702239
