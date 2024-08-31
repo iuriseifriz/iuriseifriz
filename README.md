@@ -3,3 +3,6 @@
 - 📚 Java, Python, HTML/CSS, JS = <3 
 - 🌱 I’m currently studying Software Analysis and Development - Federal Institute of Rio Grande do Sul
 - 📫 How to reach me: iurirseifriz@gmail.com or linkedin.com/in/iuri-seifriz-152702239
+<div style="display: flex; width: 100%; justify-content: space-between;">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandav777&layout=compact)
