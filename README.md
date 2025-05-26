@@ -3,7 +3,7 @@ I am Iuri, I’m currently studying Software Analysis and Development - Federal 
 - 📚 Python, Java, HTML/CSS, JS
 - 🌱 I’m currently studying Software Analysis and Development - Federal Institute of Rio Grande do Sul
 - 📫 How to reach me: iurirseifriz@gmail.com or linkedin.com/in/iuri-seifriz-152702239
-[![Linkedin Badge](https://img.shields.io/badge/-iuriseifriz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-seifriz-152702239)]([linkedin.com/in/iuri-seifriz-152702239](https://www.linkedin.com/in/iuri-seifriz-152702239))
+![Iuri Seifriz](https://img.shields.io/badge/LinkedIn)
 [![Gmail Badge](https://img.shields.io/badge/-iurirseifriz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iurirseifriz@gmail.com)](mailto:iurirseifriz@gmail.com)
 
 <div style="display: flex; width: 100%; justify-content: space-between;">
