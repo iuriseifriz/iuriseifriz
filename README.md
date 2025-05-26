@@ -1,4 +1,4 @@
-I am Iuri, I’m a programmer and currently studying Software Analysis and Development - Federal Institute of Rio Grande do Sul.
+I'm Iuri, a programmer and currently studying Software Analysis and Development - Federal Institute of Rio Grande do Sul.
 
 - Interests: Games, Cloud and Data Engineering, Gen AI and programming in general.
 - Main languages: Python, Java, HTML/CSS/JS
